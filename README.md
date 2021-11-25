@@ -1,2 +1,2 @@
-# UnityScripts
-Containing Unity Scripts for AR/VR etc.
+# UsefulScripts
+Containing Unity Scripts for AR/VR as well as Useful Python/Java etc Scripts
